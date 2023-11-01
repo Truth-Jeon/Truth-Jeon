@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=프론트와%20소통이%20잘되는%20백엔드%20개발자%20전하윤%20입니다.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=프론트와%50소통이%50잘되는%20백엔드%20개발자%20전하윤%20입니다.&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon)](https://github.com/Truth-Jeon)
 
