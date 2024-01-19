@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#FF6F61&height=300&section=header&text=전하윤's%GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:FF6F61&height=300&section=header&text=전하윤's%GitHub&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon)](https://github.com/Truth-Jeon)
 
