@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical)
 <br/>
 <br/>
+<div align="center">
 🚀 Follow Me 🚀
 <br/>
 <a href="https://jjjj0601.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FB413A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
@@ -16,3 +17,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+</div>
