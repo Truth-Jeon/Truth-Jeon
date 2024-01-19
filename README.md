@@ -4,13 +4,13 @@
 <br/>
 <br/>
 <div align="center">
-🚀 Follow Me 🚀
+<h1>🚀 Follow Me 🚀</h1>
 <br/>
 <a href="https://jjjj0601.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FB413A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://ripe-anaconda-ea0.notion.site/2b6efed9821241cfa91547af096f2947" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <br/>
 <br/>
-📚 Tech Stack 📚
+<h1>📚 Tech Stack 📚</h1>
 <br/>
 <img src="https://img.shields.io/badge/Spring-5CA72F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
