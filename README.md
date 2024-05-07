@@ -6,7 +6,7 @@
 <h3>🚀 Follow Me 🚀</h3>
 <br/>
 <a href="https://jjjj0601.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FB413A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-<a href="https://ripe-anaconda-ea0.notion.site/2b6efed9821241cfa91547af096f2947" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/2b230a1bea8748fab04d2cbcb480c7a4" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <br/>
 <br/>
 <h3>📚 Tech Stack 📚</h3>
