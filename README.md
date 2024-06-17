@@ -1,7 +1,6 @@
-
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=180&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
 <h5>I am a React Native developer, and I mainly specialize in Typescript and Javascript.<br/>I seek to code with caution in the component life cycle of the React Native,<br/>And I aim to write clean and clear code.</h5>
 <br/>
 <br/>
