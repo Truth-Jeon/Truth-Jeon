@@ -1,21 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:FF6F61&height=300&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truth-Jeon&layout=donut)
-<br/>
-<br/>
+
 <div align="center">
-<h3>🚀 Follow Me 🚀</h3>
+  
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=200&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
+<h5>I am a React Native developer, and I mainly specialize in Typescript and Javascript.<br/>I seek to code with caution in the component life cycle of the React Native,<br/>And I aim to write clean and clear code.</h5>
 <br/>
+<br/>
+<h3>👀 My GitHub Stats 👀</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical)
+
+<br/>
+<br/>
+<h3>🅰️ My Most Used Language 🅰️</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truth-Jeon&layout=donut)
+
+<br/>
+<br/>
+<h3>🚀 Follow Me 🚀</h3>
 <a href="https://jjjj0601.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FB413A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/2b230a1bea8748fab04d2cbcb480c7a4" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+
+<br/>
+<br/>
 <br/>
 <br/>
 <h3>📚 Tech Stack 📚</h3>
-<br/>
-<img src="https://img.shields.io/badge/ReactNative-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<h5>📍Languages📍</h5>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NextJS-F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-99CC33?style=for-the-badge&logo=java&logoColor=white"/>
+<br/>
+<h5>📍Frameworks & Libraries📍</h5>
+<img src="https://img.shields.io/badge/ReactNative-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextJS-F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<br/>
+<h5>📍Databases📍</h5>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-880000?style=for-the-badge&logo=mssql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/>
+<h5>📍Tools📍</h5>
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </div>
