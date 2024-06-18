@@ -22,12 +22,12 @@
 <br/>
 <br/>
 <h3>📚 Tech Stack 📚</h3>
-<h4>❤️ Languages : 
+<h4>❤️ Languages ❤️<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-99CC33?style=for-the-badge&logo=java&logoColor=white"/>
 </h4>
-<h4>🧡 Frameworks & Libraries : 
+<h4>🧡 Frameworks & Libraries 🧡<br/>
 <img src="https://img.shields.io/badge/ReactNative-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </h4>
-<h4>💛 Databases : 
+<h4>💛 Databases 💛<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-880000?style=for-the-badge&logo=mssql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </h4>
-<h4>💚 Tools : 
+<h4>💚 Tools 💚<br/>
 <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
