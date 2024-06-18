@@ -4,7 +4,7 @@
 <h5>I am a React Native developer, and I mainly specialize in Typescript and Javascript.<br/>I seek to code with caution in the component life cycle of the React Native,<br/>And I aim to write clean and clear code.</h5>
 <br/>
 <br/>
-<h3>👀 My GitHub Stats && Most Used Language 👀</h3>
+<h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical)
 <br/>
