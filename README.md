@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
-<h5>I am a React Native developer, and I mainly specialize in Typescript and Javascript.<br/>I seek to code with caution in the component life cycle of the React Native.<br/>And I aim to write clean and clear code.</h5>
+<h5>I am a React developer, and I mainly specialize in Javascript and Typescript.<br/>I seek to code with caution in the component life cycle of the React.<br/>And I aim to write clean and clear code.</h5>
 <br/>
 <br/>
 <h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
@@ -23,13 +23,14 @@
 <br/>
 <h3>📚 Tech Stack 📚</h3>
 <h4>❤️ Languages ❤️<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-99CC33?style=for-the-badge&logo=java&logoColor=white"/>
 </h4>
 <h4>🧡 Frameworks & Libraries 🧡<br/>
-<img src="https://img.shields.io/badge/ReactNative-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactNative-212121?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/NextJS-F7DF1E?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
