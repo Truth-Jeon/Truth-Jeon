@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
-<h5>I am a Backend developer, and I mainly specialize in JAVA, Javascript and Typescript.<br/>I aim to write clean and clear code.</h5>
+<h5>I'm a second-year Android developer, and I mainly specialize in JAVA and Kotlin.<br/>I tend to develop by paying attention to the life cycle of Android Activity, and I aim to write clean and clear code.</h5>
 <br/>
 <br/>
 <h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
