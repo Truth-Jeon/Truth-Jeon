@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
-<h5>I'm a second-year Android developer, and I mainly specialize in JAVA and Kotlin.<br/>I tend to develop by paying attention to the life cycle of Android Activity, and I aim to write clean and clear code.</h5>
+<h5>I'm a second-year Android developer, and I mainly specialize in JAVA and Kotlin.<br/>I aim to develop apps and write clean and clear codes, paying attention to the Android life cycle.</h5>
 <br/>
 <br/>
 <h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
@@ -14,7 +14,7 @@
 <br/>
 <h3>🚀 Follow Me 🚀</h3>
 <a href="https://jjjj0601.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FB413A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-<a href="https://www.notion.so/Front-End-7fed439e125d4c1aa00254e4124c5e88" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/Android-7fed439e125d4c1aa00254e4124c5e88" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 <br/>
