@@ -24,6 +24,7 @@
 <h3>📚 Tech Stack 📚</h3>
 <h4>❤️ Languages ❤️<br/>
 <img src="https://img.shields.io/badge/Java-99CC33?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-6B30FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </h4>
