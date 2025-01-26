@@ -7,7 +7,7 @@
 <br/>
 <h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Truth-Jeon?pet-id=671369902453695940" width="500" height="200"/>
+  <img src="https://render.gitanimals.org/lines/Truth-Jeon?pet-id=671369902453695940" width="450" height="100"/>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical)
