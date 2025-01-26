@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
+  
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Truth-Jeon?pet-id=" width="1000" height="120"/>
 </a>
