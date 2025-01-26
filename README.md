@@ -1,13 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
 <div align="center">
   
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Truth-Jeon?pet-id=" width="1000" height="120"/>
-</a>
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:FF6F61&height=150&section=header&text=Hi!%20I'm%20Hayoon&fontSize=90)
+
 <h5>I'm a second-year Android developer, and I mainly specialize in Kotlin and Java.<br/>I aim to develop apps and write clean and clear codes, paying attention to the Android life cycle.</h5>
 <br/>
 <br/>
 <h3>👀 My GitHub Stats && Most Used Languages 👀</h3>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Truth-Jeon?pet-id=" width="500" height="200"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truth-Jeon&show_icons=true&theme=radical)
 <br/>
